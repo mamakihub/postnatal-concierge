@@ -1,0 +1,6 @@
+body{margin:0;font-family:Georgia,serif;background:#f7f5f2;color:#111;}
+header{padding:20px 40px;background:#fff;display:flex;justify-content:space-between;}
+.container{max-width:900px;margin:60px auto;}
+.hero{font-size:42px;margin-bottom:20px;}
+.button{background:#111;color:#fff;padding:10px 15px;display:inline-block;margin:20px 0;}
+.card{background:#fff;padding:20px;margin:20px 0;}
